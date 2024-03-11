@@ -1,0 +1,6 @@
+@api_tres_camadas_HostAddress = http://localhost:5101
+
+GET {{api_tres_camadas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
